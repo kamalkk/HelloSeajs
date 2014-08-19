@@ -1,0 +1,4 @@
+HelloSeajs
+==========
+
+seajs learning project
